@@ -1,0 +1,1 @@
+SELECT * FROM students WHERE "ame""Ivanov" AND "ountry""Russia" AND "ity""Moscow" AND ;
